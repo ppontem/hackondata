@@ -1,0 +1,7 @@
+Pedro Ponte is currently a theoretical physicist at the Perimeter Institute in Waterloo Ontario currently studying for a PhD in computational condensed matter. Pedro is interested in transitioning into the world of data science.
+
+Todd Sierens is also a theoretical physicist at the Perimeter Institute in Waterloo Ontario. Todd will be completing his PhD in string theory and gravity this winter and he is an aspiring data scientist with interests in AI development and machine learning.
+
+We are looking at the city of Toronto's parking infraction data. We have collected all of the parking infractions issued in the city of Toronto from 2011-2015 and our project is to be able to make a predictive model for the frequency of parking tickets given out on any given day. 
+
+Attached are some IPython workbooks and an html export of the main workflow notebook. In the notebooks you will see a systematic evaluation of the data, extracting relavent features and modelling the data on our features. We find a very predictive model that seems to indicate that the most essential factor in determining the number of tickets issued is the number of parking enforcement officers on duty that day. We do not have access to this data, but we can see a decrease in tickets issued during holidays and on the weekends.
